@@ -1,4 +1,4 @@
-; hello.asm
+; lab4.asm
 SECTION .data ; Начало секции данных
 hello: DB 'Maria Goltsova',10 ; 'Maria Goltsova' плюс
 ; символ перевода строки
